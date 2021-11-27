@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "restaurantname": "Sushi Bar",
+    "cusine": ["sushi", "japanese", "fish"],
+    "arrivaltime": 10,
+    "rating": 5.0,
+    "image": "https://b.zmtcdn.com/data/pictures/6/100306/4126d3adc6f71bb330a9a5d45f55a243.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 2,
+    "restaurantname": "Brooklyn Pizza Club - Highway",
+    "cusine": ["Pizza", "Italian", "Tomato"],
+    "arrivaltime": 12,
+    "rating": 5.0,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19625383/e01190c1838e5c7c940e1cd4572f9a8f.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 3,
+    "restaurantname": "Mappa Restauration",
+    "cusine": ["Burger", "American", "Ham"],
+    "arrivaltime": 14,
+    "rating": 5.0,
+    "image": "https://b.zmtcdn.com/data/dish_images/197987b7ebcd1ee08f8c25ea4e77e20f1634731334.png"
+  },
+  {
+    "id": 4,
+    "restaurantname": "Roll Express",
+    "cusine": ["Rolls", "Fast Food"],
+    "arrivaltime": 37,
+    "rating": 4,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/102148/cbb924c54b2a61737116a5d7279b4af1.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*"
+  },
+  {
+    "id": 5,
+    "restaurantname": "captain briyani by white kitchen",
+    "cusine": ["Muglai", "North Indian", "Pizza"],
+    "arrivaltime": 37,
+    "rating": 3.9,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19282050/b25ce620ecdca4976f6cb5ebf54fcc15.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*"
+  },
+  {
+    "id": 6,
+    "restaurantname": "Golden Gravies",
+    "cusine": ["North Indian"],
+    "arrivaltime": 38,
+    "rating": 3.0,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/102148/cbb924c54b2a61737116a5d7279b4af1.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*"
+  },
+  {
+    "id": 7,
+    "restaurantname": "Burger king",
+    "cusine": ["Burger", "Fast Food", "Beverages"],
+    "arrivaltime": 48,
+    "rating": 4.1,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/102881/04e1cd573a0a157dc7af2aa348f51be2_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 8,
+    "restaurantname": "The Uptown Terrace",
+    "cusine": ["North Indian", "Fast Food"],
+    "arrivaltime": 46,
+    "rating": 3.8,
+    "image": "https://b.zmtcdn.com/data/pictures/8/19731358/e72a823b5848cbb543ad618a32846bde.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 9,
+    "restaurantname": "Burger Farm",
+    "cusine": ["Burger", "Fast Food", "Beverages"],
+    "arrivaltime": 38,
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "restaurantname": "Pizza Hut",
+    "cusine": ["Pizza", "Fast Food", "Desserts"],
+    "arrivaltime": 37,
+    "rating": 3.7,
+    "image": "https://b.zmtcdn.com/data/pictures/3/102003/31424cab04ec30777802a10ec5ff1a7e.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 11,
+    "restaurantname": "Marky Momos",
+    "cusine": ["chinese", "Fast Food", "momos"],
+    "arrivaltime": 41,
+    "rating": 3.8,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/101061/77625a20b7378678f404c489c8d75ec7.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*"
+  },
+  {
+    "id": 12,
+    "restaurantname": "NIC Natural Ice Creams",
+    "cusine": ["ice cream", "Dessert"],
+    "arrivaltime": 31,
+    "rating": 4.4,
+    "image": "https://b.zmtcdn.com/data/pictures/2/19425432/5ad539e5f90aae8a7245b6186f674df9.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 13,
+    "restaurantname": "JBT Jaipur Burger Truck",
+    "cusine": ["Burger", "Pizza"],
+    "arrivaltime": 46,
+    "rating": 4.1,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18377142/2193535148399cbdaa9122efe4249128.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 14,
+    "restaurantname": "Subway",
+    "cusine": ["Healthy Food", "Sandwich"],
+    "arrivaltime": 38,
+    "rating": 4.2,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/100256/e3e02329a806b1a1af6f9e05e475c98a.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*"
+  },
+  {
+    "id": 15,
+    "restaurantname": "Baskin Robbins",
+    "cusine": ["Ice Creams", "Desserts"],
+    "arrivaltime": 36,
+    "rating": 4.2,
+    "image": "https://b.zmtcdn.com/data/pictures/3/100023/fda25eb0dae8a94b0336572990a9329f.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 16,
+    "restaurantname": "Cake Culture",
+    "cusine": ["Bakery", "Desserts"],
+    "arrivaltime": 35,
+    "rating": 3.9,
+    "image": "https://b.zmtcdn.com/data/pictures/8/18973698/612b5a06ceedbfe4fe6f9478938f9b8c_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 17,
+    "restaurantname": "The Belgian Waffle Co.",
+    "cusine": ["Bakery", "Beverages", "Waffles"],
+    "arrivaltime": 41,
+    "rating": 4.3,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18590032/cfbda35382090ddbf5128a946c235f74.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 18,
+    "restaurantname": "The Good Bowl",
+    "cusine": ["Asian", "Biryani", "North Indian"],
+    "arrivaltime": "37 m",
+    "rating": 4.1,
+    "image": "https://b.zmtcdn.com/data/pictures/6/100306/4126d3adc6f71bb330a9a5d45f55a243.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 19,
+    "restaurantname": "Skyfall By Replay",
+    "cusine": ["Chinese", "Continental", "North Indian"],
+    "arrivaltime": 57,
+    "rating": 4.9,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19204560/83ffa65c9ab42eb239ab12020dfb8c38.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "id": 20,
+    "restaurantname": "Lick-A-Chick",
+    "cusine": ["Kebab", "Non-Veg", "North Indian"],
+    "arrivaltime": 27,
+    "rating": 5.0,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/100170/3acf6c681e22fc60360c6f3544860213.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  }
+]
